@@ -1,0 +1,40 @@
+{
+  "lineColors": [
+    {
+      "id": "light",
+      "name": "Light gray",
+      "hex": "#cdd5e0"
+    },
+    {
+      "id": "gray",
+      "name": "Gray",
+      "hex": "#9aa3b2"
+    },
+    {
+      "id": "blue",
+      "name": "Blue",
+      "hex": "#7ba4d6"
+    },
+    {
+      "id": "black",
+      "name": "Black",
+      "hex": "#3a3f47"
+    },
+    {
+      "id": "red",
+      "name": "Red",
+      "hex": "#d99a9a"
+    }
+  ],
+  "lineThicknessMm": {
+    "thin": 0.16,
+    "normal": 0.28,
+    "bold": 0.45
+  },
+  "marginsMm": {
+    "none": 0,
+    "small": 8,
+    "medium": 14,
+    "large": 22
+  }
+}

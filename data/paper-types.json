@@ -1,0 +1,938 @@
+[
+  {
+    "id": "graph",
+    "name": "Graph Paper",
+    "description": "Square grids in metric and imperial spacing for math, plotting and design.",
+    "freeGraphPaper": "https://freegraphpaper.net/graph-paper",
+    "translations": {
+      "es": {
+        "name": "Papel Milimetrado",
+        "url": "https://freegraphpaper.net/es/papel-milimetrado"
+      },
+      "de": {
+        "name": "Millimeterpapier",
+        "url": "https://freegraphpaper.net/de/millimeterpapier"
+      },
+      "fr": {
+        "name": "Papier Millimétré",
+        "url": "https://freegraphpaper.net/fr/papier-millimetre"
+      },
+      "pt": {
+        "name": "Papel Milimetrado",
+        "url": "https://freegraphpaper.net/pt/papel-milimetrado"
+      }
+    }
+  },
+  {
+    "id": "dot",
+    "name": "Dot Grid Paper",
+    "description": "Calm dotted grids for bullet journals, sketching and lettering.",
+    "freeGraphPaper": "https://freegraphpaper.net/dot-grid-paper",
+    "translations": {
+      "es": {
+        "name": "Papel Punteado",
+        "url": "https://freegraphpaper.net/es/papel-punteado"
+      },
+      "de": {
+        "name": "Punktraster-Papier",
+        "url": "https://freegraphpaper.net/de/punktraster-papier"
+      },
+      "fr": {
+        "name": "Papier Pointillé",
+        "url": "https://freegraphpaper.net/fr/papier-pointille"
+      },
+      "pt": {
+        "name": "Papel Pontilhado",
+        "url": "https://freegraphpaper.net/pt/papel-pontilhado"
+      }
+    }
+  },
+  {
+    "id": "isometric",
+    "name": "Isometric Paper",
+    "description": "Triangular 30° grids for 3D sketches, isometric drawing and CAD.",
+    "freeGraphPaper": "https://freegraphpaper.net/isometric-paper",
+    "translations": {
+      "es": {
+        "name": "Papel Isométrico",
+        "url": "https://freegraphpaper.net/es/papel-isometrico"
+      },
+      "de": {
+        "name": "Isometrisches Papier",
+        "url": "https://freegraphpaper.net/de/isometrisches-papier"
+      },
+      "fr": {
+        "name": "Papier Isométrique",
+        "url": "https://freegraphpaper.net/fr/papier-isometrique"
+      },
+      "pt": {
+        "name": "Papel Isométrico",
+        "url": "https://freegraphpaper.net/pt/papel-isometrico"
+      }
+    }
+  },
+  {
+    "id": "hexagon",
+    "name": "Hexagon Paper",
+    "description": "Tessellated hex grids for games, organic chemistry and map design.",
+    "freeGraphPaper": "https://freegraphpaper.net/hexagon-paper",
+    "translations": {
+      "es": {
+        "name": "Papel Hexagonal",
+        "url": "https://freegraphpaper.net/es/papel-hexagonal"
+      },
+      "de": {
+        "name": "Hexagonpapier",
+        "url": "https://freegraphpaper.net/de/hexagonpapier"
+      },
+      "fr": {
+        "name": "Papier Hexagonal",
+        "url": "https://freegraphpaper.net/fr/papier-hexagonal"
+      },
+      "pt": {
+        "name": "Papel Hexagonal",
+        "url": "https://freegraphpaper.net/pt/papel-hexagonal"
+      }
+    }
+  },
+  {
+    "id": "lined",
+    "name": "Lined Paper",
+    "description": "Ruled writing paper, including college-ruled and wide-ruled.",
+    "freeGraphPaper": "https://freegraphpaper.net/lined-paper",
+    "translations": {
+      "es": {
+        "name": "Papel Rayado",
+        "url": "https://freegraphpaper.net/es/papel-rayado"
+      },
+      "de": {
+        "name": "Liniertes Papier",
+        "url": "https://freegraphpaper.net/de/liniertes-papier"
+      },
+      "fr": {
+        "name": "Papier Ligné",
+        "url": "https://freegraphpaper.net/fr/papier-ligne"
+      },
+      "pt": {
+        "name": "Papel Pautado",
+        "url": "https://freegraphpaper.net/pt/papel-pautado"
+      }
+    }
+  },
+  {
+    "id": "cornell",
+    "name": "Cornell Notes",
+    "description": "Structured note layout with cue column and summary band.",
+    "freeGraphPaper": "https://freegraphpaper.net/cornell-notes-template",
+    "translations": {
+      "es": {
+        "name": "Papel de Apuntes Cornell",
+        "url": "https://freegraphpaper.net/es/apuntes-cornell"
+      },
+      "de": {
+        "name": "Cornell-Notizpapier",
+        "url": "https://freegraphpaper.net/de/cornell-notizen"
+      },
+      "fr": {
+        "name": "Papier de Prise de Notes Cornell",
+        "url": "https://freegraphpaper.net/fr/prise-de-notes-cornell"
+      },
+      "pt": {
+        "name": "Papel de Anotações Cornell",
+        "url": "https://freegraphpaper.net/pt/anotacoes-cornell"
+      }
+    }
+  },
+  {
+    "id": "music",
+    "name": "Music Staff Paper",
+    "description": "Blank manuscript staves for composing and music theory.",
+    "freeGraphPaper": "https://freegraphpaper.net/music-staff-paper",
+    "translations": {
+      "es": {
+        "name": "Papel Pautado",
+        "url": "https://freegraphpaper.net/es/papel-pautado"
+      },
+      "de": {
+        "name": "Notenpapier",
+        "url": "https://freegraphpaper.net/de/notenpapier"
+      },
+      "fr": {
+        "name": "Papier à Musique",
+        "url": "https://freegraphpaper.net/fr/papier-musique"
+      },
+      "pt": {
+        "name": "Papel de Música",
+        "url": "https://freegraphpaper.net/pt/papel-de-musica"
+      }
+    }
+  },
+  {
+    "id": "coordinate",
+    "name": "Coordinate Paper",
+    "description": "Numbered X/Y axes through the centre for plotting functions.",
+    "freeGraphPaper": "https://freegraphpaper.net/coordinate-graph-paper",
+    "translations": {
+      "es": {
+        "name": "Papel con Ejes Coordenados",
+        "url": "https://freegraphpaper.net/es/papel-con-ejes"
+      },
+      "de": {
+        "name": "Koordinatenpapier",
+        "url": "https://freegraphpaper.net/de/koordinatenpapier"
+      },
+      "fr": {
+        "name": "Papier Repère Orthonormé",
+        "url": "https://freegraphpaper.net/fr/papier-repere-orthonorme"
+      },
+      "pt": {
+        "name": "Papel do Plano Cartesiano",
+        "url": "https://freegraphpaper.net/pt/papel-plano-cartesiano"
+      }
+    }
+  },
+  {
+    "id": "polar",
+    "name": "Polar Graph Paper",
+    "description": "Concentric circles and radial lines for polar coordinates.",
+    "freeGraphPaper": "https://freegraphpaper.net/polar-graph-paper",
+    "translations": {
+      "es": {
+        "name": "Papel Polar",
+        "url": "https://freegraphpaper.net/es/papel-polar"
+      },
+      "de": {
+        "name": "Polarpapier",
+        "url": "https://freegraphpaper.net/de/polarpapier"
+      },
+      "fr": {
+        "name": "Papier Polaire",
+        "url": "https://freegraphpaper.net/fr/papier-polaire"
+      },
+      "pt": {
+        "name": "Papel Polar",
+        "url": "https://freegraphpaper.net/pt/papel-polar"
+      }
+    }
+  },
+  {
+    "id": "engineering",
+    "name": "Engineering Paper",
+    "description": "Subdivided grid with a heavier rule every five squares for technical work.",
+    "freeGraphPaper": "https://freegraphpaper.net/engineering-paper",
+    "translations": {
+      "es": {
+        "name": "Papel de Ingeniería",
+        "url": "https://freegraphpaper.net/es/papel-de-ingenieria"
+      },
+      "de": {
+        "name": "Technisches Zeichenpapier",
+        "url": "https://freegraphpaper.net/de/technisches-zeichenpapier"
+      },
+      "fr": {
+        "name": "Papier Technique",
+        "url": "https://freegraphpaper.net/fr/papier-technique"
+      },
+      "pt": {
+        "name": "Papel de Engenharia",
+        "url": "https://freegraphpaper.net/pt/papel-de-engenharia"
+      }
+    }
+  },
+  {
+    "id": "log",
+    "name": "Logarithmic Graph Paper",
+    "description": "Log-log decades for exponential data, frequency response and pH plots.",
+    "freeGraphPaper": "https://freegraphpaper.net/log-graph-paper",
+    "translations": {
+      "es": {
+        "name": "Papel Logarítmico",
+        "url": "https://freegraphpaper.net/es/papel-logaritmico"
+      },
+      "de": {
+        "name": "Logarithmenpapier",
+        "url": "https://freegraphpaper.net/de/logarithmenpapier"
+      },
+      "fr": {
+        "name": "Papier Logarithmique",
+        "url": "https://freegraphpaper.net/fr/papier-logarithmique"
+      },
+      "pt": {
+        "name": "Papel Logarítmico",
+        "url": "https://freegraphpaper.net/pt/papel-logaritmico"
+      }
+    }
+  },
+  {
+    "id": "triangle",
+    "name": "Triangle Paper",
+    "description": "Equilateral triangular grid for tessellation, 3D sketches and quilting.",
+    "freeGraphPaper": "https://freegraphpaper.net/triangle-paper",
+    "translations": {
+      "es": {
+        "name": "Papel Triangular",
+        "url": "https://freegraphpaper.net/es/papel-triangular"
+      },
+      "de": {
+        "name": "Dreieckspapier",
+        "url": "https://freegraphpaper.net/de/dreieckspapier"
+      },
+      "fr": {
+        "name": "Papier Triangulaire",
+        "url": "https://freegraphpaper.net/fr/papier-triangulaire"
+      },
+      "pt": {
+        "name": "Papel Triangular",
+        "url": "https://freegraphpaper.net/pt/papel-triangular"
+      }
+    }
+  },
+  {
+    "id": "brick",
+    "name": "Brick Paper",
+    "description": "Running-bond brick pattern for design mockups, lettering and patterns.",
+    "freeGraphPaper": "https://freegraphpaper.net/brick-paper",
+    "translations": {
+      "es": {
+        "name": "Papel de Ladrillos",
+        "url": "https://freegraphpaper.net/es/papel-de-ladrillos"
+      },
+      "de": {
+        "name": "Ziegelpapier",
+        "url": "https://freegraphpaper.net/de/ziegelpapier"
+      },
+      "fr": {
+        "name": "Papier Brique",
+        "url": "https://freegraphpaper.net/fr/papier-brique"
+      },
+      "pt": {
+        "name": "Papel de Tijolos",
+        "url": "https://freegraphpaper.net/pt/papel-de-tijolos"
+      }
+    }
+  },
+  {
+    "id": "perspective",
+    "name": "Perspective Paper",
+    "description": "One-point perspective grid with a horizon line and vanishing point.",
+    "freeGraphPaper": "https://freegraphpaper.net/perspective-paper",
+    "translations": {
+      "es": {
+        "name": "Papel de Perspectiva",
+        "url": "https://freegraphpaper.net/es/papel-de-perspectiva"
+      },
+      "de": {
+        "name": "Perspektivpapier",
+        "url": "https://freegraphpaper.net/de/perspektivpapier"
+      },
+      "fr": {
+        "name": "Papier Perspective",
+        "url": "https://freegraphpaper.net/fr/papier-perspective"
+      },
+      "pt": {
+        "name": "Papel de Perspectiva",
+        "url": "https://freegraphpaper.net/pt/papel-de-perspectiva"
+      }
+    }
+  },
+  {
+    "id": "handwriting",
+    "name": "Handwriting Paper",
+    "description": "Ruled practice paper with a dashed midline for penmanship and early writing.",
+    "freeGraphPaper": "https://freegraphpaper.net/handwriting-paper",
+    "translations": {
+      "es": {
+        "name": "Papel de Escritura",
+        "url": "https://freegraphpaper.net/es/papel-de-escritura"
+      },
+      "de": {
+        "name": "Schreiblernpapier",
+        "url": "https://freegraphpaper.net/de/schreiblernpapier"
+      },
+      "fr": {
+        "name": "Papier d’Apprentissage de l’Écriture",
+        "url": "https://freegraphpaper.net/fr/papier-apprentissage-ecriture"
+      },
+      "pt": {
+        "name": "Papel de Caligrafia Infantil",
+        "url": "https://freegraphpaper.net/pt/papel-de-caligrafia-infantil"
+      }
+    }
+  },
+  {
+    "id": "seyes",
+    "name": "Séyès Paper (French Ruled)",
+    "description": "French Séyès ruling — fine 2 mm lines with bold guides for cursive writing.",
+    "freeGraphPaper": "https://freegraphpaper.net/seyes-paper",
+    "translations": {
+      "es": {
+        "name": "Papel Séyès",
+        "url": "https://freegraphpaper.net/es/papel-seyes"
+      },
+      "de": {
+        "name": "Séyès-Papier",
+        "url": "https://freegraphpaper.net/de/seyes-papier"
+      },
+      "fr": {
+        "name": "Papier Séyès",
+        "url": "https://freegraphpaper.net/fr/papier-seyes"
+      },
+      "pt": {
+        "name": "Papel Séyès",
+        "url": "https://freegraphpaper.net/pt/papel-seyes"
+      }
+    }
+  },
+  {
+    "id": "crossstitch",
+    "name": "Cross Stitch Paper",
+    "description": "10-count grid with bold blocks for designing cross-stitch and needlework charts.",
+    "freeGraphPaper": "https://freegraphpaper.net/cross-stitch-paper",
+    "translations": {
+      "es": {
+        "name": "Papel de Punto de Cruz",
+        "url": "https://freegraphpaper.net/es/papel-punto-de-cruz"
+      },
+      "de": {
+        "name": "Kreuzstich-Papier",
+        "url": "https://freegraphpaper.net/de/kreuzstich-papier"
+      },
+      "fr": {
+        "name": "Papier Point de Croix",
+        "url": "https://freegraphpaper.net/fr/papier-point-de-croix"
+      },
+      "pt": {
+        "name": "Papel de Ponto Cruz",
+        "url": "https://freegraphpaper.net/pt/papel-ponto-cruz"
+      }
+    }
+  },
+  {
+    "id": "knitting",
+    "name": "Knitting Graph Paper",
+    "description": "Stitch-proportioned grid (wider than tall) for knitting charts and colourwork.",
+    "freeGraphPaper": "https://freegraphpaper.net/knitting-graph-paper",
+    "translations": {
+      "es": {
+        "name": "Papel Cuadriculado para Punto",
+        "url": "https://freegraphpaper.net/es/papel-cuadriculado-para-punto"
+      },
+      "de": {
+        "name": "Strickpapier",
+        "url": "https://freegraphpaper.net/de/strickpapier"
+      },
+      "fr": {
+        "name": "Papier Quadrillé Tricot",
+        "url": "https://freegraphpaper.net/fr/papier-quadrille-tricot"
+      },
+      "pt": {
+        "name": "Papel Quadriculado para Tricô",
+        "url": "https://freegraphpaper.net/pt/papel-quadriculado-para-trico"
+      }
+    }
+  },
+  {
+    "id": "guitartab",
+    "name": "Guitar Tab Paper",
+    "description": "Blank six-line tablature staves for guitar riffs, solos and transcription.",
+    "freeGraphPaper": "https://freegraphpaper.net/guitar-tab-paper",
+    "translations": {
+      "es": {
+        "name": "Papel de Tablatura de Guitarra",
+        "url": "https://freegraphpaper.net/es/papel-tablatura-guitarra"
+      },
+      "de": {
+        "name": "Gitarren-Tabulaturpapier",
+        "url": "https://freegraphpaper.net/de/gitarren-tabulaturpapier"
+      },
+      "fr": {
+        "name": "Papier Tablature Guitare",
+        "url": "https://freegraphpaper.net/fr/papier-tablature-guitare"
+      },
+      "pt": {
+        "name": "Papel de Tablatura de Violão",
+        "url": "https://freegraphpaper.net/pt/papel-tablatura-violao"
+      }
+    }
+  },
+  {
+    "id": "semilog",
+    "name": "Semi-Log Paper",
+    "description": "One linear axis and one logarithmic axis for exponential data and pH plots.",
+    "freeGraphPaper": "https://freegraphpaper.net/semi-log-paper",
+    "translations": {
+      "es": {
+        "name": "Papel Semilogarítmico",
+        "url": "https://freegraphpaper.net/es/papel-semilogaritmico"
+      },
+      "de": {
+        "name": "Einfachlogarithmisches Papier",
+        "url": "https://freegraphpaper.net/de/einfachlogarithmisches-papier"
+      },
+      "fr": {
+        "name": "Papier Semi-Logarithmique",
+        "url": "https://freegraphpaper.net/fr/papier-semi-logarithmique"
+      },
+      "pt": {
+        "name": "Papel Monolog",
+        "url": "https://freegraphpaper.net/pt/papel-monolog"
+      }
+    }
+  },
+  {
+    "id": "numberline",
+    "name": "Number Line Paper",
+    "description": "Printable numbered number lines for arithmetic, fractions and early math.",
+    "freeGraphPaper": "https://freegraphpaper.net/number-line-paper",
+    "translations": {
+      "es": {
+        "name": "Papel de Recta Numérica",
+        "url": "https://freegraphpaper.net/es/papel-recta-numerica"
+      },
+      "de": {
+        "name": "Zahlenstrahl-Papier",
+        "url": "https://freegraphpaper.net/de/zahlenstrahl-papier"
+      },
+      "fr": {
+        "name": "Papier Droite Numérique",
+        "url": "https://freegraphpaper.net/fr/papier-droite-numerique"
+      },
+      "pt": {
+        "name": "Papel de Reta Numérica",
+        "url": "https://freegraphpaper.net/pt/papel-reta-numerica"
+      }
+    }
+  },
+  {
+    "id": "sudoku",
+    "name": "Sudoku Paper",
+    "description": "Blank 9×9 sudoku grids with bold boxes, ready to fill in.",
+    "freeGraphPaper": "https://freegraphpaper.net/sudoku-paper",
+    "translations": {
+      "es": {
+        "name": "Papel de Sudoku",
+        "url": "https://freegraphpaper.net/es/papel-sudoku"
+      },
+      "de": {
+        "name": "Sudoku-Papier",
+        "url": "https://freegraphpaper.net/de/sudoku-papier"
+      },
+      "fr": {
+        "name": "Papier Sudoku",
+        "url": "https://freegraphpaper.net/fr/papier-sudoku"
+      },
+      "pt": {
+        "name": "Papel de Sudoku",
+        "url": "https://freegraphpaper.net/pt/papel-sudoku"
+      }
+    }
+  },
+  {
+    "id": "goban",
+    "name": "Go Board Paper",
+    "description": "A 19×19 Go board with star points for Go, Baduk and Weiqi.",
+    "freeGraphPaper": "https://freegraphpaper.net/go-board-paper",
+    "translations": {
+      "es": {
+        "name": "Papel de Tablero de Go",
+        "url": "https://freegraphpaper.net/es/papel-tablero-de-go"
+      },
+      "de": {
+        "name": "Go-Brett-Papier",
+        "url": "https://freegraphpaper.net/de/go-brett-papier"
+      },
+      "fr": {
+        "name": "Papier Goban",
+        "url": "https://freegraphpaper.net/fr/papier-goban"
+      },
+      "pt": {
+        "name": "Papel de Tabuleiro de Go",
+        "url": "https://freegraphpaper.net/pt/papel-tabuleiro-de-go"
+      }
+    }
+  },
+  {
+    "id": "storyboard",
+    "name": "Storyboard Paper",
+    "description": "16:9 storyboard frames with caption lines for film and animation planning.",
+    "freeGraphPaper": "https://freegraphpaper.net/storyboard-paper",
+    "translations": {
+      "es": {
+        "name": "Papel de Storyboard",
+        "url": "https://freegraphpaper.net/es/papel-storyboard"
+      },
+      "de": {
+        "name": "Storyboard-Papier",
+        "url": "https://freegraphpaper.net/de/storyboard-papier"
+      },
+      "fr": {
+        "name": "Papier Storyboard",
+        "url": "https://freegraphpaper.net/fr/papier-storyboard"
+      },
+      "pt": {
+        "name": "Papel de Storyboard",
+        "url": "https://freegraphpaper.net/pt/papel-storyboard"
+      }
+    }
+  },
+  {
+    "id": "calligraphy",
+    "name": "Calligraphy Paper",
+    "description": "Ruled writing bands with 55° slant guides for calligraphy and hand lettering.",
+    "freeGraphPaper": "https://freegraphpaper.net/calligraphy-paper",
+    "translations": {
+      "es": {
+        "name": "Papel de Caligrafía",
+        "url": "https://freegraphpaper.net/es/papel-caligrafia"
+      },
+      "de": {
+        "name": "Kalligraphie-Papier",
+        "url": "https://freegraphpaper.net/de/kalligraphie-papier"
+      },
+      "fr": {
+        "name": "Papier Calligraphie",
+        "url": "https://freegraphpaper.net/fr/papier-calligraphie"
+      },
+      "pt": {
+        "name": "Papel de Caligrafia",
+        "url": "https://freegraphpaper.net/pt/papel-caligrafia"
+      }
+    }
+  },
+  {
+    "id": "ternary",
+    "name": "Ternary Graph Paper",
+    "description": "A triangular three-axis grid for three-component composition plots.",
+    "freeGraphPaper": "https://freegraphpaper.net/ternary-paper",
+    "translations": {
+      "es": {
+        "name": "Papel Ternario",
+        "url": "https://freegraphpaper.net/es/papel-ternario"
+      },
+      "de": {
+        "name": "Dreiecksdiagramm-Papier",
+        "url": "https://freegraphpaper.net/de/dreiecksdiagramm-papier"
+      },
+      "fr": {
+        "name": "Papier Diagramme Ternaire",
+        "url": "https://freegraphpaper.net/fr/papier-diagramme-ternaire"
+      },
+      "pt": {
+        "name": "Papel de Diagrama Ternário",
+        "url": "https://freegraphpaper.net/pt/papel-diagrama-ternario"
+      }
+    }
+  },
+  {
+    "id": "clockface",
+    "name": "Clock Face Paper",
+    "description": "Blank analog clock faces for telling-time practice and worksheets.",
+    "freeGraphPaper": "https://freegraphpaper.net/clock-face-paper",
+    "translations": {
+      "es": {
+        "name": "Papel de Relojes",
+        "url": "https://freegraphpaper.net/es/papel-relojes"
+      },
+      "de": {
+        "name": "Zifferblatt-Papier",
+        "url": "https://freegraphpaper.net/de/zifferblatt-papier"
+      },
+      "fr": {
+        "name": "Papier Cadrans d’Horloge",
+        "url": "https://freegraphpaper.net/fr/papier-cadrans-horloge"
+      },
+      "pt": {
+        "name": "Papel de Relógios",
+        "url": "https://freegraphpaper.net/pt/papel-relogios"
+      }
+    }
+  },
+  {
+    "id": "perspective2",
+    "name": "Two-Point Perspective Paper",
+    "description": "A horizon with two vanishing points and fanned guides for perspective drawing.",
+    "freeGraphPaper": "https://freegraphpaper.net/two-point-perspective-paper",
+    "translations": {
+      "es": {
+        "name": "Papel de Perspectiva a Dos Puntos",
+        "url": "https://freegraphpaper.net/es/papel-perspectiva-dos-puntos"
+      },
+      "de": {
+        "name": "Zweipunktperspektive-Papier",
+        "url": "https://freegraphpaper.net/de/zweipunktperspektive-papier"
+      },
+      "fr": {
+        "name": "Papier Perspective à Deux Points",
+        "url": "https://freegraphpaper.net/fr/papier-perspective-deux-points"
+      },
+      "pt": {
+        "name": "Papel de Perspectiva de Dois Pontos",
+        "url": "https://freegraphpaper.net/pt/papel-perspectiva-dois-pontos"
+      }
+    }
+  },
+  {
+    "id": "battlemap",
+    "name": "Battle Map Paper (1 inch)",
+    "description": "A bold one-inch square grid for tabletop RPGs, D&D and miniatures.",
+    "freeGraphPaper": "https://freegraphpaper.net/battle-map-paper",
+    "translations": {
+      "es": {
+        "name": "Papel de Mapa de Batalla",
+        "url": "https://freegraphpaper.net/es/papel-mapa-de-batalla"
+      },
+      "de": {
+        "name": "Battlemap-Papier",
+        "url": "https://freegraphpaper.net/de/battlemap-papier"
+      },
+      "fr": {
+        "name": "Papier Carte de Bataille",
+        "url": "https://freegraphpaper.net/fr/papier-carte-de-bataille"
+      },
+      "pt": {
+        "name": "Papel de Mapa de Batalha",
+        "url": "https://freegraphpaper.net/pt/papel-mapa-de-batalha"
+      }
+    }
+  },
+  {
+    "id": "chessboard",
+    "name": "Chessboard Paper",
+    "description": "A printable 8×8 checkerboard for chess, checkers and draughts.",
+    "freeGraphPaper": "https://freegraphpaper.net/chessboard-paper",
+    "translations": {
+      "es": {
+        "name": "Papel de Tablero de Ajedrez",
+        "url": "https://freegraphpaper.net/es/papel-tablero-de-ajedrez"
+      },
+      "de": {
+        "name": "Schachbrett-Papier",
+        "url": "https://freegraphpaper.net/de/schachbrett-papier"
+      },
+      "fr": {
+        "name": "Papier Échiquier",
+        "url": "https://freegraphpaper.net/fr/papier-echiquier"
+      },
+      "pt": {
+        "name": "Papel de Tabuleiro de Xadrez",
+        "url": "https://freegraphpaper.net/pt/papel-tabuleiro-de-xadrez"
+      }
+    }
+  },
+  {
+    "id": "hexmap",
+    "name": "Hex Map Paper",
+    "description": "A pointy-top hexagonal map grid for wargaming and RPG maps.",
+    "freeGraphPaper": "https://freegraphpaper.net/hex-map-paper",
+    "translations": {
+      "es": {
+        "name": "Papel de Mapa Hexagonal",
+        "url": "https://freegraphpaper.net/es/papel-mapa-hexagonal"
+      },
+      "de": {
+        "name": "Hexfeld-Kartenpapier",
+        "url": "https://freegraphpaper.net/de/hexfeld-kartenpapier"
+      },
+      "fr": {
+        "name": "Papier Carte Hexagonale",
+        "url": "https://freegraphpaper.net/fr/papier-carte-hexagonale"
+      },
+      "pt": {
+        "name": "Papel de Mapa Hexagonal",
+        "url": "https://freegraphpaper.net/pt/papel-mapa-hexagonal"
+      }
+    }
+  },
+  {
+    "id": "quilting",
+    "name": "Quilting Graph Paper",
+    "description": "A square grid with cell diagonals for quilt blocks and patchwork design.",
+    "freeGraphPaper": "https://freegraphpaper.net/quilting-graph-paper",
+    "translations": {
+      "es": {
+        "name": "Papel Cuadriculado para Patchwork",
+        "url": "https://freegraphpaper.net/es/papel-patchwork"
+      },
+      "de": {
+        "name": "Patchwork-Karopapier",
+        "url": "https://freegraphpaper.net/de/patchwork-karopapier"
+      },
+      "fr": {
+        "name": "Papier Quadrillé Patchwork",
+        "url": "https://freegraphpaper.net/fr/papier-quadrille-patchwork"
+      },
+      "pt": {
+        "name": "Papel Quadriculado para Patchwork",
+        "url": "https://freegraphpaper.net/pt/papel-quadriculado-para-patchwork"
+      }
+    }
+  },
+  {
+    "id": "genkoyoshi",
+    "name": "Genkō Yōshi Paper",
+    "description": "Columns of character squares for Japanese writing practice.",
+    "freeGraphPaper": "https://freegraphpaper.net/genko-yoshi-paper",
+    "translations": {
+      "es": {
+        "name": "Papel Genkō Yōshi",
+        "url": "https://freegraphpaper.net/es/papel-genko-yoshi"
+      },
+      "de": {
+        "name": "Genkō-Yōshi-Papier",
+        "url": "https://freegraphpaper.net/de/genko-yoshi-papier"
+      },
+      "fr": {
+        "name": "Papier Genkō Yōshi",
+        "url": "https://freegraphpaper.net/fr/papier-genko-yoshi"
+      },
+      "pt": {
+        "name": "Papel Genkō Yōshi",
+        "url": "https://freegraphpaper.net/pt/papel-genko-yoshi"
+      }
+    }
+  },
+  {
+    "id": "tianzige",
+    "name": "Tian Zi Ge Paper (Chinese)",
+    "description": "Character squares with dashed cross guides for Chinese handwriting practice.",
+    "freeGraphPaper": "https://freegraphpaper.net/tian-zi-ge-paper",
+    "translations": {
+      "es": {
+        "name": "Papel Tian Zi Ge",
+        "url": "https://freegraphpaper.net/es/papel-tian-zi-ge"
+      },
+      "de": {
+        "name": "Tian-Zi-Ge-Papier",
+        "url": "https://freegraphpaper.net/de/tian-zi-ge-papier"
+      },
+      "fr": {
+        "name": "Papier Tian Zi Ge",
+        "url": "https://freegraphpaper.net/fr/papier-tian-zi-ge"
+      },
+      "pt": {
+        "name": "Papel Tian Zi Ge",
+        "url": "https://freegraphpaper.net/pt/papel-tian-zi-ge"
+      }
+    }
+  },
+  {
+    "id": "basstab",
+    "name": "Bass Tab Paper",
+    "description": "Blank four-line tablature staves for bass guitar transcription.",
+    "freeGraphPaper": "https://freegraphpaper.net/bass-tab-paper",
+    "translations": {
+      "es": {
+        "name": "Papel de Tablatura de Bajo",
+        "url": "https://freegraphpaper.net/es/papel-tablatura-bajo"
+      },
+      "de": {
+        "name": "Bass-Tabulaturpapier",
+        "url": "https://freegraphpaper.net/de/bass-tabulaturpapier"
+      },
+      "fr": {
+        "name": "Papier Tablature Basse",
+        "url": "https://freegraphpaper.net/fr/papier-tablature-basse"
+      },
+      "pt": {
+        "name": "Papel de Tablatura de Baixo",
+        "url": "https://freegraphpaper.net/pt/papel-tablatura-baixo"
+      }
+    }
+  },
+  {
+    "id": "chorddiagram",
+    "name": "Guitar Chord Paper",
+    "description": "A grid of blank guitar chord diagrams for songwriting and chord charts.",
+    "freeGraphPaper": "https://freegraphpaper.net/guitar-chord-paper",
+    "translations": {
+      "es": {
+        "name": "Papel de Acordes de Guitarra",
+        "url": "https://freegraphpaper.net/es/papel-acordes-guitarra"
+      },
+      "de": {
+        "name": "Gitarrengriff-Papier",
+        "url": "https://freegraphpaper.net/de/gitarrengriff-papier"
+      },
+      "fr": {
+        "name": "Papier Accords Guitare",
+        "url": "https://freegraphpaper.net/fr/papier-accords-guitare"
+      },
+      "pt": {
+        "name": "Papel de Acordes de Violão",
+        "url": "https://freegraphpaper.net/pt/papel-acordes-violao"
+      }
+    }
+  },
+  {
+    "id": "peyote",
+    "name": "Peyote Bead Paper",
+    "description": "An offset bead grid for peyote and brick-stitch beadwork charts.",
+    "freeGraphPaper": "https://freegraphpaper.net/peyote-bead-paper",
+    "translations": {
+      "es": {
+        "name": "Papel de Abalorios Peyote",
+        "url": "https://freegraphpaper.net/es/papel-abalorios-peyote"
+      },
+      "de": {
+        "name": "Peyote-Perlenpapier",
+        "url": "https://freegraphpaper.net/de/peyote-perlenpapier"
+      },
+      "fr": {
+        "name": "Papier Perles Peyote",
+        "url": "https://freegraphpaper.net/fr/papier-perles-peyote"
+      },
+      "pt": {
+        "name": "Papel de Miçangas Peyote",
+        "url": "https://freegraphpaper.net/pt/papel-micangas-peyote"
+      }
+    }
+  },
+  {
+    "id": "crossword",
+    "name": "Crossword Grid Paper",
+    "description": "A bold blank square grid for making crosswords and word puzzles.",
+    "freeGraphPaper": "https://freegraphpaper.net/crossword-grid-paper",
+    "translations": {
+      "es": {
+        "name": "Papel de Crucigramas",
+        "url": "https://freegraphpaper.net/es/papel-crucigramas"
+      },
+      "de": {
+        "name": "Kreuzworträtsel-Papier",
+        "url": "https://freegraphpaper.net/de/kreuzwortraetsel-papier"
+      },
+      "fr": {
+        "name": "Papier Mots Croisés",
+        "url": "https://freegraphpaper.net/fr/papier-mots-croises"
+      },
+      "pt": {
+        "name": "Papel de Palavras Cruzadas",
+        "url": "https://freegraphpaper.net/pt/papel-palavras-cruzadas"
+      }
+    }
+  },
+  {
+    "id": "comic",
+    "name": "Comic Panel Paper",
+    "description": "Blank comic and manga panels with gutters for laying out pages.",
+    "freeGraphPaper": "https://freegraphpaper.net/comic-panel-paper",
+    "translations": {
+      "es": {
+        "name": "Papel de Cómic",
+        "url": "https://freegraphpaper.net/es/papel-comic"
+      },
+      "de": {
+        "name": "Comic-Panel-Papier",
+        "url": "https://freegraphpaper.net/de/comic-papier"
+      },
+      "fr": {
+        "name": "Papier Bande Dessinée",
+        "url": "https://freegraphpaper.net/fr/papier-bande-dessinee"
+      },
+      "pt": {
+        "name": "Papel de Quadrinhos",
+        "url": "https://freegraphpaper.net/pt/papel-quadrinhos"
+      }
+    }
+  }
+]

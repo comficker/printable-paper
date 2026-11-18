@@ -1,0 +1,15 @@
+# Data licence
+
+The JSON files in `data/` are licensed under
+Creative Commons Attribution 4.0 International (CC BY 4.0).
+Full text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+You may share and adapt them for any purpose, including commercially, provided
+you give credit.
+
+Suggested credit:
+
+    Paper specifications by Free Graph Paper (https://freegraphpaper.net),
+    CC BY 4.0
+
+The code in `src/` and `dist/` is MIT licensed — see LICENSE.

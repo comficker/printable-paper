@@ -1,0 +1,12 @@
+{
+  "name": "printable-paper data",
+  "source": "https://freegraphpaper.net",
+  "license": "CC BY 4.0",
+  "credit": "Paper specifications by Free Graph Paper (https://freegraphpaper.net)",
+  "files": {
+    "paper-types.json": "39 ruled-paper types, each with the page that prints it",
+    "paper-sizes.json": "47 physical page sizes in millimetres and inches",
+    "spacings.json": "7 standard grid spacings",
+    "styles.json": "line colours, stroke widths and margin widths in millimetres"
+  }
+}

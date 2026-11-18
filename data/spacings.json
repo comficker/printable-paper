@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1mm",
+    "name": "1 mm",
+    "mm": 1
+  },
+  {
+    "id": "2mm",
+    "name": "2 mm",
+    "mm": 2
+  },
+  {
+    "id": "5mm",
+    "name": "5 mm",
+    "mm": 5
+  },
+  {
+    "id": "10mm",
+    "name": "10 mm",
+    "mm": 10
+  },
+  {
+    "id": "eighth-inch",
+    "name": "1/8 inch",
+    "mm": 3.175
+  },
+  {
+    "id": "quarter-inch",
+    "name": "1/4 inch",
+    "mm": 6.35
+  },
+  {
+    "id": "half-inch",
+    "name": "1/2 inch",
+    "mm": 12.7
+  }
+]

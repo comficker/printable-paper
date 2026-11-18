@@ -1,0 +1,60 @@
+{
+  "name": "printable-paper",
+  "version": "0.1.0",
+  "description": "Ruled-paper specifications and a zero-dependency generator: 39 kinds of printable paper (graph, dot grid, isometric, hexagon, Cornell, music staff, log, polar and more) as true-to-scale SVG or PDF.",
+  "keywords": [
+    "graph-paper",
+    "grid-paper",
+    "printable",
+    "dot-grid",
+    "isometric-paper",
+    "hexagon-paper",
+    "cornell-notes",
+    "manuscript-paper",
+    "svg",
+    "pdf",
+    "generator",
+    "paper-sizes",
+    "iso-216",
+    "a4",
+    "us-letter"
+  ],
+  "homepage": "https://freegraphpaper.net",
+  "license": "MIT",
+  "author": "Lam (https://freegraphpaper.net)",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "bin": {
+    "printable-paper": "./dist/cli.js"
+  },
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    },
+    "./data/*": "./data/*"
+  },
+  "files": [
+    "dist",
+    "data",
+    "i18n",
+    "README.md",
+    "SOURCES.md",
+    "LICENSE",
+    "LICENSE-DATA"
+  ],
+  "scripts": {
+    "sync": "bun scripts/sync-data.ts",
+    "build": "tsc -p tsconfig.json",
+    "prepublishOnly": "npm run build",
+    "test": "node --test test/*.test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.5",
+    "typescript": "^5.6.0"
+  }
+}

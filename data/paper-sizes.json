@@ -1,0 +1,425 @@
+[
+  {
+    "id": "letter",
+    "name": "US Letter",
+    "widthMm": 215.9,
+    "heightMm": 279.4,
+    "widthIn": 8.5,
+    "heightIn": 11,
+    "series": "us"
+  },
+  {
+    "id": "legal",
+    "name": "US Legal",
+    "widthMm": 215.9,
+    "heightMm": 355.6,
+    "widthIn": 8.5,
+    "heightIn": 14,
+    "series": "us"
+  },
+  {
+    "id": "tabloid",
+    "name": "Tabloid (Ledger)",
+    "widthMm": 279.4,
+    "heightMm": 431.8,
+    "widthIn": 11,
+    "heightIn": 17,
+    "series": "us"
+  },
+  {
+    "id": "executive",
+    "name": "Executive",
+    "widthMm": 184.15,
+    "heightMm": 266.7,
+    "widthIn": 7.25,
+    "heightIn": 10.5,
+    "series": "us"
+  },
+  {
+    "id": "junior-legal",
+    "name": "Junior Legal",
+    "widthMm": 127,
+    "heightMm": 203.2,
+    "widthIn": 5,
+    "heightIn": 8,
+    "series": "us"
+  },
+  {
+    "id": "half-letter",
+    "name": "Half Letter",
+    "widthMm": 139.7,
+    "heightMm": 215.9,
+    "widthIn": 5.5,
+    "heightIn": 8.5,
+    "series": "us"
+  },
+  {
+    "id": "ansi-c",
+    "name": "ANSI C",
+    "widthMm": 431.8,
+    "heightMm": 558.8,
+    "widthIn": 17,
+    "heightIn": 22,
+    "series": "us"
+  },
+  {
+    "id": "ansi-d",
+    "name": "ANSI D",
+    "widthMm": 558.8,
+    "heightMm": 863.6,
+    "widthIn": 22,
+    "heightIn": 34,
+    "series": "us"
+  },
+  {
+    "id": "ansi-e",
+    "name": "ANSI E",
+    "widthMm": 863.6,
+    "heightMm": 1117.6,
+    "widthIn": 34,
+    "heightIn": 44,
+    "series": "us"
+  },
+  {
+    "id": "arch-a",
+    "name": "Arch A",
+    "widthMm": 228.6,
+    "heightMm": 304.8,
+    "widthIn": 9,
+    "heightIn": 12,
+    "series": "us"
+  },
+  {
+    "id": "arch-b",
+    "name": "Arch B",
+    "widthMm": 304.8,
+    "heightMm": 457.2,
+    "widthIn": 12,
+    "heightIn": 18,
+    "series": "us"
+  },
+  {
+    "id": "arch-c",
+    "name": "Arch C",
+    "widthMm": 457.2,
+    "heightMm": 609.6,
+    "widthIn": 18,
+    "heightIn": 24,
+    "series": "us"
+  },
+  {
+    "id": "arch-d",
+    "name": "Arch D",
+    "widthMm": 609.6,
+    "heightMm": 914.4,
+    "widthIn": 24,
+    "heightIn": 36,
+    "series": "us"
+  },
+  {
+    "id": "arch-e",
+    "name": "Arch E",
+    "widthMm": 914.4,
+    "heightMm": 1219.2,
+    "widthIn": 36,
+    "heightIn": 48,
+    "series": "us"
+  },
+  {
+    "id": "a0",
+    "name": "A0",
+    "widthMm": 841,
+    "heightMm": 1189,
+    "widthIn": 33.11,
+    "heightIn": 46.811,
+    "series": "iso-a"
+  },
+  {
+    "id": "a1",
+    "name": "A1",
+    "widthMm": 594,
+    "heightMm": 841,
+    "widthIn": 23.386,
+    "heightIn": 33.11,
+    "series": "iso-a"
+  },
+  {
+    "id": "a2",
+    "name": "A2",
+    "widthMm": 420,
+    "heightMm": 594,
+    "widthIn": 16.535,
+    "heightIn": 23.386,
+    "series": "iso-a"
+  },
+  {
+    "id": "a3",
+    "name": "A3",
+    "widthMm": 297,
+    "heightMm": 420,
+    "widthIn": 11.693,
+    "heightIn": 16.535,
+    "series": "iso-a"
+  },
+  {
+    "id": "a4",
+    "name": "A4",
+    "widthMm": 210,
+    "heightMm": 297,
+    "widthIn": 8.268,
+    "heightIn": 11.693,
+    "series": "iso-a"
+  },
+  {
+    "id": "a5",
+    "name": "A5",
+    "widthMm": 148,
+    "heightMm": 210,
+    "widthIn": 5.827,
+    "heightIn": 8.268,
+    "series": "iso-a"
+  },
+  {
+    "id": "a6",
+    "name": "A6",
+    "widthMm": 105,
+    "heightMm": 148,
+    "widthIn": 4.134,
+    "heightIn": 5.827,
+    "series": "iso-a"
+  },
+  {
+    "id": "a7",
+    "name": "A7",
+    "widthMm": 74,
+    "heightMm": 105,
+    "widthIn": 2.913,
+    "heightIn": 4.134,
+    "series": "iso-a"
+  },
+  {
+    "id": "a8",
+    "name": "A8",
+    "widthMm": 52,
+    "heightMm": 74,
+    "widthIn": 2.047,
+    "heightIn": 2.913,
+    "series": "iso-a"
+  },
+  {
+    "id": "a9",
+    "name": "A9",
+    "widthMm": 37,
+    "heightMm": 52,
+    "widthIn": 1.457,
+    "heightIn": 2.047,
+    "series": "iso-a"
+  },
+  {
+    "id": "a10",
+    "name": "A10",
+    "widthMm": 26,
+    "heightMm": 37,
+    "widthIn": 1.024,
+    "heightIn": 1.457,
+    "series": "iso-a"
+  },
+  {
+    "id": "b0",
+    "name": "B0",
+    "widthMm": 1000,
+    "heightMm": 1414,
+    "widthIn": 39.37,
+    "heightIn": 55.669,
+    "series": "iso-b"
+  },
+  {
+    "id": "b1",
+    "name": "B1",
+    "widthMm": 707,
+    "heightMm": 1000,
+    "widthIn": 27.835,
+    "heightIn": 39.37,
+    "series": "iso-b"
+  },
+  {
+    "id": "b2",
+    "name": "B2",
+    "widthMm": 500,
+    "heightMm": 707,
+    "widthIn": 19.685,
+    "heightIn": 27.835,
+    "series": "iso-b"
+  },
+  {
+    "id": "b3",
+    "name": "B3",
+    "widthMm": 353,
+    "heightMm": 500,
+    "widthIn": 13.898,
+    "heightIn": 19.685,
+    "series": "iso-b"
+  },
+  {
+    "id": "b4",
+    "name": "B4",
+    "widthMm": 250,
+    "heightMm": 353,
+    "widthIn": 9.843,
+    "heightIn": 13.898,
+    "series": "iso-b"
+  },
+  {
+    "id": "b5",
+    "name": "B5",
+    "widthMm": 176,
+    "heightMm": 250,
+    "widthIn": 6.929,
+    "heightIn": 9.843,
+    "series": "iso-b"
+  },
+  {
+    "id": "b6",
+    "name": "B6",
+    "widthMm": 125,
+    "heightMm": 176,
+    "widthIn": 4.921,
+    "heightIn": 6.929,
+    "series": "iso-b"
+  },
+  {
+    "id": "b7",
+    "name": "B7",
+    "widthMm": 88,
+    "heightMm": 125,
+    "widthIn": 3.465,
+    "heightIn": 4.921,
+    "series": "iso-b"
+  },
+  {
+    "id": "b8",
+    "name": "B8",
+    "widthMm": 62,
+    "heightMm": 88,
+    "widthIn": 2.441,
+    "heightIn": 3.465,
+    "series": "iso-b"
+  },
+  {
+    "id": "b9",
+    "name": "B9",
+    "widthMm": 44,
+    "heightMm": 62,
+    "widthIn": 1.732,
+    "heightIn": 2.441,
+    "series": "iso-b"
+  },
+  {
+    "id": "b10",
+    "name": "B10",
+    "widthMm": 31,
+    "heightMm": 44,
+    "widthIn": 1.22,
+    "heightIn": 1.732,
+    "series": "iso-b"
+  },
+  {
+    "id": "c0",
+    "name": "C0",
+    "widthMm": 917,
+    "heightMm": 1297,
+    "widthIn": 36.102,
+    "heightIn": 51.063,
+    "series": "iso-c"
+  },
+  {
+    "id": "c1",
+    "name": "C1",
+    "widthMm": 648,
+    "heightMm": 917,
+    "widthIn": 25.512,
+    "heightIn": 36.102,
+    "series": "iso-c"
+  },
+  {
+    "id": "c2",
+    "name": "C2",
+    "widthMm": 458,
+    "heightMm": 648,
+    "widthIn": 18.031,
+    "heightIn": 25.512,
+    "series": "iso-c"
+  },
+  {
+    "id": "c3",
+    "name": "C3",
+    "widthMm": 324,
+    "heightMm": 458,
+    "widthIn": 12.756,
+    "heightIn": 18.031,
+    "series": "iso-c"
+  },
+  {
+    "id": "c4",
+    "name": "C4",
+    "widthMm": 229,
+    "heightMm": 324,
+    "widthIn": 9.016,
+    "heightIn": 12.756,
+    "series": "iso-c"
+  },
+  {
+    "id": "c5",
+    "name": "C5",
+    "widthMm": 162,
+    "heightMm": 229,
+    "widthIn": 6.378,
+    "heightIn": 9.016,
+    "series": "iso-c"
+  },
+  {
+    "id": "c6",
+    "name": "C6",
+    "widthMm": 114,
+    "heightMm": 162,
+    "widthIn": 4.488,
+    "heightIn": 6.378,
+    "series": "iso-c"
+  },
+  {
+    "id": "c7",
+    "name": "C7",
+    "widthMm": 81,
+    "heightMm": 114,
+    "widthIn": 3.189,
+    "heightIn": 4.488,
+    "series": "iso-c"
+  },
+  {
+    "id": "c8",
+    "name": "C8",
+    "widthMm": 57,
+    "heightMm": 81,
+    "widthIn": 2.244,
+    "heightIn": 3.189,
+    "series": "iso-c"
+  },
+  {
+    "id": "c9",
+    "name": "C9",
+    "widthMm": 40,
+    "heightMm": 57,
+    "widthIn": 1.575,
+    "heightIn": 2.244,
+    "series": "iso-c"
+  },
+  {
+    "id": "c10",
+    "name": "C10",
+    "widthMm": 28,
+    "heightMm": 40,
+    "widthIn": 1.102,
+    "heightIn": 1.575,
+    "series": "iso-c"
+  }
+]
